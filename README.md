@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello World!! 👋 ❤️ to see you here!!!
 
-<!--
-**sujairamprasathc/sujairamprasathc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I'm currently interning at [![KLA][kla-badge]][kla-homepage]
+- 💻 I’m currently working on a [portfolio for my friend][current-project] aside from company works
+- 🌱 I’m currently learning [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
+- 🤔 I’m looking for help with [![ReactJS][react-badge]][react-homepage]
+- 💬 Ask me about [![Docker][docker-badge]][docker-homepage] [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
+- 📫 How to reach me: [![LinkedIN][linkedin-badge]][linkedin-profile]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[kla-badge]: https://img.shields.io/badge/KLA-%E2%9D%A4-red
+[kla-homepage]: https://www.kla-tencor.com/
+[current-project]: https://github.com/sujairamprasathc/avinash-portfolio/
+[docker-homepage]: https://www.docker.com/
+[docker-badge]: https://img.shields.io/static/v1?label=&message=Docker&style=flat&logo=docker&color=099dec&logoColor=white&logoWidth=20&labelColor=099dec
+[kubernetes-homepage]: https://kubernetes.io/
+[kubernetes-badge]: https://img.shields.io/static/v1?label=&message=Kubernetes&style=flat&logo=kubernetes&color=326de6&logoColor=white&logoWidth=20&labelColor=326de6
+[react-homepage]: https://reactjs.org/
+[react-badge]: https://img.shields.io/static/v1?label=&message=React&style=flat&logo=react&color=61dafb&logoColor=white&logoWidth=20&labelColorr=61dafb
+[linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-profile]: https://www.linkedin.com/in/sujai-ram-prasath-chandrasekar/
