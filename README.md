@@ -1,7 +1,7 @@
 ## Hello World!! 👋 ❤️ to see you here!!!
 
-- 🖥️ I'm currently interning at [![KLA][kla-badge]][kla-homepage]
-- 💻 I’m currently working on creating illustrative examples demonstrating Kubernetes concepts
+- 🖥️ I'm currently studying at PSG College of Technology
+- 💻 I’m currently working on small academic projects
 - 🌱 I’m currently learning [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
 - 🤔 I’m looking for help with [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
 - 💬 Ask me about [![Docker][docker-badge]][docker-homepage] [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
