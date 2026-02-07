@@ -1,6 +1,6 @@
 ## Hello World!! 👋 ❤️ to see you here!!!
 
-- 🖥️ I'm currently wprking at ![kla-badge]
+- 🖥️ I'm currently working at ![kla-badge]
 - 🌱 I’m currently learning System Design & Computer Vision
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about C++, High-Performance Computing, non-AI CV
