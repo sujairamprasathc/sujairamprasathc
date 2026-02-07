@@ -1,10 +1,9 @@
 ## Hello World!! 👋 ❤️ to see you here!!!
 
-- 🖥️ I'm currently studying at PSG College of Technology
-- 💻 I’m currently working on small academic projects
-- 🌱 I’m currently learning [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
-- 🤔 I’m looking for help with [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
-- 💬 Ask me about [![Docker][docker-badge]][docker-homepage] [![Kubernetes][kubernetes-badge]][kubernetes-homepage]
+- 🖥️ I'm currently wprking at ![kla-badge]
+- 🌱 I’m currently learning System Design & Computer Vision
+- 🤔 I’m looking for help with AI
+- 💬 Ask me about C++, High-Performance Computing, non-AI CV
 - 📫 How to reach me: [![LinkedIN][linkedin-badge]][linkedin-profile]
 
 [kla-badge]: https://img.shields.io/badge/KLA-%E2%9D%A4-red
